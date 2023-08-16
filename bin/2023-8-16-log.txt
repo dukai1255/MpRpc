@@ -1,0 +1,19 @@
+
+10-3-20 => first log message
+10-3-20 => /home/dk/Desktop/mprpc/example/callee/friendservice.cc:main:43
+20-20-9 => [ERROR] first log message
+20-20-9 => [ERROR] /home/dk/Desktop/mprpc/example/callee/friendservice.cc:main:43
+20-20-9 => [INFO] service_name:FriendServiceRpc
+20-20-9 => [INFO] method_name:GetFriendsList
+20-24-39 => [ERROR] first log message
+20-24-39 => [ERROR] /home/dk/Desktop/mprpc/example/callee/friendservice.cc:main:43
+20-24-39 => [INFO] service_name:FriendServiceRpc
+20-24-39 => [INFO] method_name:GetFriendsList
+20-56-33 => [ERROR] first log message
+20-56-33 => [ERROR] /home/dk/Desktop/mprpc/example/callee/friendservice.cc:main:43
+20-56-33 => [INFO] service_name:FriendServiceRpc
+20-56-33 => [INFO] method_name:GetFriendsList
+21-11-34 => [ERROR] first log message
+21-11-34 => [ERROR] /home/dk/Desktop/mprpc/example/callee/friendservice.cc:main:43
+21-11-34 => [INFO] service_name:FriendServiceRpc
+21-11-34 => [INFO] method_name:GetFriendsList
